@@ -1,7 +1,7 @@
 {
-	"name": "ncjoes/gear-pdf",
+	"name": "ncjoes/pdf-gear",
 	"description": "A PDF builder using HTML or DOCX templates.",
-	"homepage": "https://github.com/ncjoes/gear-pdf",
+	"homepage": "https://github.com/ncjoes/pdf-gear",
 	"keywords": ["pdf", "docx", "template", "builder", "converter"],
 	"license": "MIT",
 	"autoload":
